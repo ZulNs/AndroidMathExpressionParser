@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item android:id="@+id/item_enable_evaluation"
+        android:title="@string/menu_label_enable_evaluation" />
+    <item android:id="@+id/item_view_histories"
+        android:title="@string/menu_label_history_list" />
+    <item android:id="@+id/item_view_functions"
+        android:title="@string/menu_label_function_list" />
+    <item android:id="@+id/item_view_variables"
+        android:title="@string/menu_label_variable_list" />
+    <item android:id="@+id/item_delete_all"
+        android:title="@string/menu_label_delete_all" />
+    <item android:id="@+id/item_result_normal"
+        android:title="@string/menu_label_normal_result" />
+    <item android:id="@+id/item_result_hex"
+        android:title="@string/menu_label_hex_result" />
+    <item android:id="@+id/item_result_real_hex"
+        android:title="@string/menu_label_real_hex_result" />
+    <item android:id="@+id/item_result_dms"
+        android:title="@string/menu_label_dms_result" />
+
+</menu>

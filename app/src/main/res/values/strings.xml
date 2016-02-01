@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Excel Notation Math Expression Parser</string>
+    <string name="app_about">By ZulNs, Yogyakarta, June 2014</string>
+    <string name="edit_text_expr_hint">Input expression here&#8230;</string>
+    <string name="button_eval_title">Eval</string>
+    <string name="menu_label_enable_evaluation">Enable evaluation</string>
+    <string name="menu_label_history_list">View histories</string>
+    <string name="menu_label_function_list">View functions</string>
+    <string name="menu_label_variable_list">View variables</string>
+    <string name="menu_label_delete_all">Delete all items</string>
+    <string name="menu_label_normal_result">View Result (Normal)</string>
+    <string name="menu_label_hex_result">View Result (Hex)</string>
+    <string name="menu_label_real_hex_result">View Result (Real Hex)</string>
+    <string name="menu_label_dms_result">View Result (DMS)</string>
+    <string name="msg_delete_all_history">Are you sure want to delete all history?</string>
+    <string name="msg_delete_all_variable">Are you sure want to delete all variable?</string>
+    <string name="msg_delete_item_history">Are you sure want to delete this history?</string>
+    <string name="msg_delete_item_variable">Are you sure want to delete this variable?</string>
+    <string name="dialog_button_ok_label">OK</string>
+    <string name="dialog_button_cancel_label">Cancel</string>
+
+</resources>
